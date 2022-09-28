@@ -27,7 +27,7 @@ scissors = '''
 '''
 
 #Write your code below this line 👇
-print("Weclome to Rock-Paper-Scissors.")
+print("Welcome to Rock-Paper-Scissors.")
 print("==================================")
 user_choice = int(input('Type "1" for rock, "2" for paper or "3" for scissors: '))
 
